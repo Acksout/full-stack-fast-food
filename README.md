@@ -35,3 +35,7 @@
 # Check out the test YT video
 
 https://youtu.be/D1mIooLe1BU
+
+- Other project related URLS
+- https://fast-food-back-5ezt.onrender.com
+- https://fast-food-admin.onrender.com
