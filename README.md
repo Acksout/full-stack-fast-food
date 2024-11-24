@@ -2,6 +2,9 @@
 
 ## Fast Food - A Food Ordering App
 
+# 🎥 Video
+[![Watch the video](https://i.imgur.com/ILRo9ZX.png)](https://youtu.be/Um7SpGAlSlY)
+
 #### Pretty simple and beautiful web app. Select the food you love and checkout!
 
 - You can Signup/Login and your credentials will be safe casue they are hashed.
